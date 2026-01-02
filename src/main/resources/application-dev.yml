@@ -1,0 +1,4 @@
+server:
+    port: 9002
+atu:
+    greeting: Welcome to the dev environment book catalog!

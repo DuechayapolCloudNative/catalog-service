@@ -15,7 +15,7 @@ public class CatalogServiceApplication {
 	private Environment environment;
 
 	public static void main(String[] args) {
-        System.out.println("Hello");
+        System.out.println("Hello there");
 		SpringApplication.run(CatalogServiceApplication.class, args);
 	}
 }
